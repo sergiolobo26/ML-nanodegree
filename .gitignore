@@ -1,0 +1,77 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+env1/
+env2/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled files
+*.o
+*.lo
+*.la
+*.a
+*.lai
+*.so
+*.dll
+*.pyd
+*.exe
+*.out
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.whl
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+*.pyz
+*.pyzw
+*.pyz-*
+*.stackdump
+
+# Logs
+*.log
+logs/
+log/
+*.log.*
+*.log-*
+*.log.*
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.#*
+._*
+~*
+*.bak
+*.cache
+*.DS_Store
+*.tmp.*
+*.swp.*
+*.bak.*
+*.cache.*
+*.DS_Store.*
+*.tmp-*
+*.swp-*
+*.bak-*
+*.cache-*
+*.DS_Store-*
